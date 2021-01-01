@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112204012226",
+    "firebase_url": "https://login-signin-backend-default-rtdb.firebaseio.com",
+    "project_id": "login-signin-backend",
+    "storage_bucket": "login-signin-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112204012226:android:3f9c44d470667b7ad4795b",
+        "android_client_info": {
+          "package_name": "com.example.signup_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112204012226-o91n7mjivop1bvafqjksv9baa83gtqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8ptet5TNTY9RrYfLtdA4K_tsUw4bvqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112204012226-o91n7mjivop1bvafqjksv9baa83gtqsb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112204012226-c71tab36bs8ib7pn6fs02659bp1ml3rj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
